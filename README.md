@@ -14,8 +14,8 @@ What was performed:
 
 3.Name activities in dataset
 
-4. column name lebeling (which was performed during the reading section)
-5. 
+4.column name lebeling (which was performed during the reading section)
+   
 5.Create a tidy dataset with average average of each variable for each activity and each subject
 
 
